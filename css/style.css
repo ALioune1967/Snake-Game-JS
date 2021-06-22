@@ -1,0 +1,17 @@
+canvas{
+    border: 10px solid silver;
+    
+}
+
+body{
+    background-color: greenyellow;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top: 0px;
+}
